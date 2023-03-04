@@ -1,0 +1,7 @@
+F:\College\Algorithms\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.MainForm.resources
+F:\College\Algorithms\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.Properties.Resources.resources
+F:\College\Algorithms\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.csproj.GenerateResource.Cache
+F:\College\Algorithms\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.exe
+F:\College\Algorithms\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.pdb
+F:\College\Algorithms\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.exe
+F:\College\Algorithms\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.pdb
